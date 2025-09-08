@@ -33209,4 +33209,73 @@
 	<SELLER>GREENWATER TECHNOLOGIES</SELLER>
 	<DATEOFINSTALL>11/01/2021</DATEOFINSTALL>
 	<B1FULLADDRESS>123 FAKE STREET, ST. CLOUD, MN 56301</B1FULLADDRESS>
+	<INSTITUTIONNUMBERMASKED>XX1</INSTITUTIONNUMBERMASKED>
+	<ITEM1PRICE>1000</ITEM1PRICE>
+	<ITEM2PRICE>1000</ITEM2PRICE>
+	<ITEM3PRICE>1647.68</ITEM3PRICE>
+	<ITEM4PRICE>0</ITEM4PRICE>
+	<ITEM5PRICE>1.00</ITEM5PRICE>
+	<PST>100</PST>
+	<SHIPPINGCHARGES>0</SHIPPINGCHARGES>
+	<INTERESTRATE>17.99</INTERESTRATE>
+	<NUMOFPAYM>36</NUMOFPAYM>
+	<TERM>36</TERM>
+	<BRANCHTRANSITNBR>XX1</BRANCHTRANSITNBR>
+	<INSTITUTIONNBR>XX1</INSTITUTIONNBR>
+	<ContractDate>20200120</ContractDate>
+	<AccountNumber>1234567</AccountNumber>
+	<BuyerName>PAUL J KROUSE</BuyerName>
+	<CoBuyerName>LISA KROUSE</CoBuyerName>
+	<BuyerPhysAdd>123 FAKE STREET</BuyerPhysAdd>
+	<CoBuyerPhysAdd>123 FAKE STREET</CoBuyerPhysAdd>
+	<BuyerPhysCity>ST. CLOUD</BuyerPhysCity>
+	<BuyerPhysSubNDiv>MN</BuyerPhysSubNDiv>
+	<BuyerPhysPostCode>56301</BuyerPhysPostCode>
+	<CoBuyerPhysCity>ST. CLOUD</CoBuyerPhysCity>
+	<CoBuyerPhysSubNDiv>MN</CoBuyerPhysSubNDiv>
+	<CoBuyerPhysPostCode>56301</CoBuyerPhysPostCode>
+	<BuyerHomePhone>5555555555</BuyerHomePhone>
+	<CoBuyerHomePhone>5555555555</CoBuyerHomePhone>
+	<BuyerCellPhone>5555555555</BuyerCellPhone>
+	<CoBuyerCellPhone>5555555555</CoBuyerCellPhone>
+	<BuyerEmail>WWWWWWWWWWWW@WWWWWWWWW.COM</BuyerEmail>
+	<CoBuyerEmail>WWWWWWWWWWWW@WWWWWWWWW.COM</CoBuyerEmail>
+	<ClientBusinessName>GREENWATER TECHNOLOGIES</ClientBusinessName>
+	<ClientPhysAdd>123 super fake street</ClientPhysAdd>
+	<ClientPhysCity>Somewhere</ClientPhysCity>
+	<ClientPhysSubNDiv>MN</ClientPhysSubNDiv>
+	<ClientPhysPostCode>12345</ClientPhysPostCode>
+	<ClientPhone>1000030300</ClientPhone>
+	<ClientEmail>Test3@test.com</ClientEmail>
+	<SalesRepName>Awesome Salesrep</SalesRepName>
+	<ClientNumber>3023</ClientNumber>
+	<BankName>Wells Fargo</BankName>
+	<BankLocation>Sauk Rapids, MN</BankLocation>
+	<BankAcctType>Checking</BankAcctType>
+	<BankAcctNumber>XXXXXX6789</BankAcctNumber>
+	<BankRoutingNumber>XXXXXX321</BankRoutingNumber>
+	<MinPmtAmt>120.39</MinPmtAmt>
+	<RegDueDay>6</RegDueDay>
+	<NameOnBankAcct>Test User</NameOnBankAcct>
+	<CreditLimit>5000</CreditLimit>
+	<DescriptionOfGoods1>This desc is exactly the max number of characters allowed 60</DescriptionOfGoods1>
+	<DescriptionOfGoods2>This desc is exactly the max number of characters allowed 60</DescriptionOfGoods2>
+	<DescriptionOfGoods3>This desc is exactly the max number of characters allowed 60</DescriptionOfGoods3>
+	<Item1Amount>1000</Item1Amount>
+	<Item2Amount>1000</Item2Amount>
+	<Item3Amount>1647.68</Item3Amount>
+	<Subtotal>3647.68</Subtotal>
+	<SalesTax>100</SalesTax>
+	<TotalSalesPrice>3747.68</TotalSalesPrice>
+	<DownPayment>0.00</DownPayment>
+	<RemainingBalance>3747.68</RemainingBalance>
+	<MiniPmtPercent>1.15</MiniPmtPercent>
+	<HasPromoCreditPlan>Y</HasPromoCreditPlan>
+	<HasSac>Y</HasSac>
+	<HasPromoRate>Y</HasPromoRate>
+	<HasDefer>Y</HasDefer>
+	<SacMonths>6</SacMonths>
+	<DefMonths>3</DefMonths>
+	<PromoRate>9.99</PromoRate>
+	<TRADENAME>RAYNE EFFECTS</TRADENAME>
 </MergeData>
